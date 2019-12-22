@@ -1,5 +1,5 @@
 {
-    "id": "ec6abc938d4ae784099bbab3a63d94e1",
+    "id": "71a7b14bed7b41a92184b902dfda807d",
     "name": "Nationwide Building Society",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "9b6c3c3852fbe7423addad22c330c17f",
+            "id": "937a9342703eddc4ffbdea3a3b8d7f9e",
             "name": "Get ATMs",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         },
         {
-            "id": "b2b8d2581e07dce395c760845846e95a",
+            "id": "88e551d1fd2a26ed1c2569282c2abeb8",
             "name": "Get Branches",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         },
         {
-            "id": "447bdab0b670cb130880ad4c02130d27",
+            "id": "e8770ebcc7f880e1849840566a2fb0eb",
             "name": "Get Current Personal Accounts",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         },
         {
-            "id": "a99fc92f6629b7567def83e0ee1293af",
+            "id": "c31521d404410f17ebe08ad99ea459ca",
             "name": "Get Current Business Accounts",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/business-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         },
         {
-            "id": "88eadbc23fcfd631b12c8b88eec29f62",
+            "id": "8570a7cd25d8e4357ec2f7be400ee5ae",
             "name": "Get Unsecured SME Loans",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         },
         {
-            "id": "8472af068a8261205a7cbeca77045891",
+            "id": "553c1f75da15a8a0c11f2e6db6de42e8",
             "name": "Get Commercial Credit Cards",
             "url": "httpsopenapi.nationwide.co.ukopen-banking\/v2.1\/commercial-credit-cards\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
@@ -144,7 +144,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "ec6abc938d4ae784099bbab3a63d94e1",
+            "collectionId": "71a7b14bed7b41a92184b902dfda807d",
             "rawModeData": ""
         }
     ]
